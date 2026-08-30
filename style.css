@@ -43,3 +43,17 @@ button:hover {
 #restart:hover {
     background-color: #f06292;
 }
+@media (max-width: 500px) {
+    .quiz {
+        width: 85%;
+        padding: 20px;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    body {
+        margin-top: 40px;
+    }
+}

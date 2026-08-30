@@ -29,3 +29,7 @@ This project was created to practice JavaScript concepts including arrays of obj
 * Add more quiz categories
 * Add difficulty levels
 * Add a final score summary
+
+## Live Demo
+
+👉 [View the Quiz App](https://patilvaishnavi0088.github.io/Quiz/)
